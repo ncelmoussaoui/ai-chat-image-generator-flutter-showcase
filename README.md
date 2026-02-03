@@ -28,14 +28,14 @@ Ready to build your own AI-powered app? Get the complete source code with docume
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="200" alt="Home Screen"/>
-  <img src="screenshots/chat_light.png" width="200" alt="Chat Light Mode"/>
-  <img src="screenshots/chat_dark.png" width="200" alt="Chat Dark Mode"/>
+  <img src="screenshots/screenshot1.jpg" width="200" alt="Screenshot 1"/>
+  <img src="screenshots/screenshot2.jpg" width="200" alt="Screenshot 2"/>
+  <img src="screenshots/screenshot3.jpg" width="200" alt="Screenshot 3"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/image_generator.png" width="200" alt="Image Generator"/>
-  <img src="screenshots/settings.png" width="200" alt="Settings"/>
+  <img src="screenshots/screenshot4.jpg" width="200" alt="Screenshot 4"/>
+  <img src="screenshots/screenshot5.jpg" width="200" alt="Screenshot 5"/>
 </p>
 
 ---
