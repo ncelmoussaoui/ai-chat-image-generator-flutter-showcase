@@ -93,8 +93,8 @@ Ready to build your own AI-powered app? Get the complete source code with docume
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ncelmoussaoui/ai-chat-image-generator.git
-   cd ai-chat-image-generator
+   git clone https://github.com/ncelmoussaoui/ai-chat-image-generator-flutter-showcase.git
+   cd ai-chat-image-generator-flutter-showcase
    ```
 
 2. **Install dependencies**
@@ -179,7 +179,7 @@ lib/
 Need help? Have questions?
 
 - 📧 **Email:** [Contact via Gumroad](https://buildautomate.gumroad.com/l/ai-chat-image-generator-flutter)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/ncelmoussaoui/ai-chat-image-generator/issues)
+- 🐛 **Issues:** [GitHub Issues](https://github.com/ncelmoussaoui/ai-chat-image-generator-flutter-showcase/issues)
 
 ---
 
